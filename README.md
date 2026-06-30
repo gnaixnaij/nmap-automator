@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Lint](https://img.shields.io/github/actions/workflow/status/gnaixnaij/nmap-automator/lint.yml?branch=main&label=lint&logo=github)](https://github.com/gnaixnaij/nmap-automator/actions)
+[![Release](https://img.shields.io/github/v/release/gnaixnaij/nmap-automator?logo=github)](https://github.com/gnaixnaij/nmap-automator/releases)
 [![Python](https://img.shields.io/badge/python-3.6+-3776AB?logo=python&logoColor=white)](https://python.org)
 
 Automate common nmap scans with smart defaults. Four scan modes:
