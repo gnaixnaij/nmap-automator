@@ -1,5 +1,6 @@
 # nmap-automator
 
+[![Ko-fi](https://img.shields.io/badge/Sponsor-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi)](https://ko-fi.com/gnaixnaij)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Lint](https://img.shields.io/github/actions/workflow/status/gnaixnaij/nmap-automator/lint.yml?branch=main&label=lint&logo=github)](https://github.com/gnaixnaij/nmap-automator/actions)
 [![Release](https://img.shields.io/github/v/release/gnaixnaij/nmap-automator?logo=github)](https://github.com/gnaixnaij/nmap-automator/releases)
@@ -26,6 +27,10 @@ chmod +x nmap_automator.py
 
 - Python 3.6+
 - nmap (`sudo apt install nmap` or `brew install nmap`)
+
+## Support
+
+If this saves you time, [buy me a coffee](https://ko-fi.com/gnaixnaij).
 
 ## License
 
